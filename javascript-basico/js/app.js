@@ -120,6 +120,13 @@ var yoda = {
 console.log(yoda)
 yoda.showAge()
 
+// Constants //
+
+const name2 = 'Darth Vader'
+console.log(name2)
+
+name2 = 'Master Yoda'
+console.log(name2)
 
 
 
