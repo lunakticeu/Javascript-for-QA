@@ -3,7 +3,7 @@
 const App = new Vue({
     el: '#app',
     data: {
-        title: 'Lego Star Wars',
+        title: 'Star Wars Lego',
         username: 'Luna'
     }
 })
