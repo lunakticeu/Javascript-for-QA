@@ -50,8 +50,8 @@ const App = new Vue({
         characters: LIST
     },
     methods: {
-        like(userName) {
-            alert('The character $(userName) received a like!')
+        like(userName) {    
+            alert(`The character ${userName} received a like!`)
         }
     }
 })
